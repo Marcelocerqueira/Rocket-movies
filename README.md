@@ -8,16 +8,7 @@
 
 
 Página web criada em React a partir de layout no figma.
-Desafio do NLW da  da Rockeseat. 
-
-Figma [https://www.figma.com/file/0OuLNi7z83yeoeUdohXcfs/DoctorCare-(Community)?node-id=0%3A1](https://www.figma.com/file/9l1dKIqATQRP3os0L7xtYb/RocketMovies-(Copy))
-
-
-
-
-
-
-
+Desafio do explorer da  da Rockeseat. 
 
 
 ## 🚀 Começando - 
@@ -51,7 +42,7 @@ Versão única
 
  * **Explorer Rocketseat**
 
-* **Paulo Victor Pinheiro** - *Trabalho Inicial* - [Paru - Paulo Victor](https://www.linkedin.com/in/paulo-pinheiro-4a94b0150/)
+* **Marcelo dos Santos cerqueira** - *Trabalho Inicial* - [Marcelo Cerqueira](https://www.linkedin.com/in/marcelo-cerqueira-0a0b42178/)
 
 
 
@@ -62,4 +53,4 @@ Versão única
 
 
 ---
-⌨️ com ❤️ por [Paulo Victor](https://gist.github.com/Paru369) 😊
+⌨️ com ❤️ por [Marcelo Cerqueira](https://gist.github.com/Marcelocerqueira) 😊
